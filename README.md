@@ -14,7 +14,7 @@ The script will automatically append ```https://``` if you have not included it 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/willthexu/custom_redirect_link_maker/blob/master/demo.gif' title='Video Walkthrough' width='800' alt='Video Walkthrough' />
+<img src='https://github.com/williamx98/custom_redirect_link_maker/blob/master/demo.gif' title='Video Walkthrough' width='800' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
