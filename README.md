@@ -1,5 +1,7 @@
 # Custom Redirect Link Maker
-This script is designed to generate an index.html that will automatically redirect links from your homepage to other links.
+This script is designed to generate an index.html that will automatically redirect links from your homepage to other links.  
+  
+For me, this was just a practical application of basic Bash programming applying fundamental concepts like conditional branching, working with variables, string manipulation and outputting to a file.
 
 ## Example
 [```https://willx.org/linkedin```](https://willx.org/linkedin) will redirect to [```https://linkedin.com/in/williamx98```](https://linkedin.com/in/williamx98)
@@ -12,7 +14,7 @@ The script will automatically append ```https://``` if you have not included it 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/willthexu/WXCP_ParseChat/blob/master/images/demo.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
+<img src='https://github.com/willthexu/custom_redirect_link_maker/blob/master/demo.gif' title='Video Walkthrough' width='800' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
